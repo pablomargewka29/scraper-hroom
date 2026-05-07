@@ -2,8 +2,6 @@
 
 Aplicación de escritorio en Python que extrae ofertas laborales desde portales de [Hiring Room](https://hiringroom.com/) y las exporta a Excel.
 
-Forma parte de un sistema de búsqueda laboral automatizada junto con [jobfit](#) (workflow en n8n + IA que evalúa las ofertas extraídas contra un CV).
-
 ## Qué hace
 
 - Lee un Excel con una lista de empresas y sus portales de Hiring Room.
